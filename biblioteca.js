@@ -96,23 +96,24 @@ const biblioteca = {
 
 
 biblioteca.adicionarLivros(
-    "As 48 Leis do Poder",
-    "Robert Grenne",
-    "Negócios e Desenvolvimento Pessoal",
+    "o magico de oz",
+    " L. Frank Baum",
+    "garota levada por ciclone",
     210
 );
 
 biblioteca.adicionarLivros(
-    "Pai Rico, Pai Pobre",
-    "Robert Kiyosaki",
-    "Finanças",
+    "magico de oz",
+    "L. Frank Baum",
+    "garota levada por ciclone",
     150
 );
 
 biblioteca.adicionarLivros(
-    "O Homem Mais Rico da Babilônia",
-    "George S. Clason",
-    "Finanças",
+    "magico de oz",
+    "L. Frank Baum",
+    "garota levada por ciclone
+    ",
     120
 );
 
@@ -180,24 +181,24 @@ console.log("\n------------------------------------------------")
 
 console.log("\n---------------- ALUGUEL DE LIVROS --------------------")
 
-biblioteca.alugar("As 48 Leis do Poder");
+biblioteca.alugar("magico de oz");
 
 console.log("\n----------------------------------------------------")
 
 console.log("\n---------------- DEVOLUÇÂO DE LIVROS -----------------------")
 
-biblioteca.devolver("As 48 Leis do Poder");
+biblioteca.devolver("magico de oz");
 
 console.log("\n-------------------------------------------------------")
 
 console.log("\n----------------- ALERTA DE LIVROS REMOVIDOS --------------------")
 
-biblioteca.removerLivro("As 48 Leis do Poder")
+biblioteca.removerLivro("magico de oz")
 
 console.log("\n-------------------------------------------------------")
 
 console.log("\n----------------- BUSCA DE LIVROS --------------------")
 
-biblioteca.buscarLivro("O Príncipe")
+biblioteca.buscarLivro("magico de oz")
 
 console.log("\n-------------------------------------------------------")
