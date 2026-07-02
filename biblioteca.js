@@ -96,21 +96,21 @@ const biblioteca = {
 
 
 biblioteca.adicionarLivros(
-    "o magico de oz",
+    "O ALIENISTA",
     " L. Frank Baum",
     "garota levada por ciclone",
     210
 );
 
 biblioteca.adicionarLivros(
-    "magico de oz",
+    "a cabeça do santo",
     "L. Frank Baum",
     "garota levada por ciclone",
     150
 );
 
 biblioteca.adicionarLivros(
-    "magico de oz",
+    "nunca minta",
     "L. Frank Baum",
     "garota levada por ciclone
     ",
